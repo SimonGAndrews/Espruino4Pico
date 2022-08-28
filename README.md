@@ -23,3 +23,5 @@ Boarspecific files like jswrapper.c are created with RPI2040gen.sh
 You are welcome to help.
 To be open, you are not welcome to tell me what I should do.
 Experience like "my boss expects me to do this, I am waiting" brought me to this point.
+
+## SGA Copy
